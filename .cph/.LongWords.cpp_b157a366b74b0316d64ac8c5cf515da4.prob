@@ -1,0 +1,1 @@
+{"name":"Local: LongWords","url":"e:\\CODEFORCES\\LongWords.cpp","tests":[{"id":1688231399304,"input":"4\nword\nlocalization\ninternationalization\npneumonoultramicroscopicsilicovolcanoconiosis","output":"word\nl10n\ni18n\np43s"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CODEFORCES\\LongWords.cpp","group":"local","local":true}
