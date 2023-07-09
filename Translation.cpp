@@ -5,7 +5,7 @@
 // Output
 // YES
 
-/*EXplanation->  a berlandish word differs from a birlandish word with the same meaning a little:
+/*Explanation->  a berlandish word differs from a birlandish word with the same meaning a little:
 it is spelled (and pronounced) reversely.
 For example, a Berlandish word code corresponds to a Birlandish word edoc*/
 
